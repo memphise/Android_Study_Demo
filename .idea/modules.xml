@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLib/PullToRefreshLib.iml" filepath="$PROJECT_DIR$/PullToRefreshLib/PullToRefreshLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayout/drawerlayout.iml" filepath="$PROJECT_DIR$/drawerlayout/drawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh2/pulltorefresh2.iml" filepath="$PROJECT_DIR$/pulltorefresh2/pulltorefresh2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self_study_demo/self_study_demo.iml" filepath="$PROJECT_DIR$/self_study_demo/self_study_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingpanelayout/slidingpanelayout.iml" filepath="$PROJECT_DIR$/slidingpanelayout/slidingpanelayout.iml" />
+    </modules>
+  </component>
+</project>
