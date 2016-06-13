@@ -31,9 +31,7 @@ public class DraweActivity extends AppCompatActivity implements BitmapFragment.B
         imageView.setLayoutParams(params);
         frameLayout.addView(imageView);
 
-        //Bitmap图片二压
-
-
+      
         //动态添加Framgment
         manager = getSupportFragmentManager();
         BitmapFragment bitmapFragment = new BitmapFragment();
